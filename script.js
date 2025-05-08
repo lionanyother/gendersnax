@@ -9,42 +9,53 @@ Promise.all([fetch('data.json').then(r => r.json())]).then(([entries]) => {
   const resultsDiv = document.getElementById('results');
   const noResultsDiv = document.getElementById('no-results-message');
 
+  const highlightMatch = (text, query) => {
+    if (!query) return text;
+    const regex = new RegExp(`(${query})`, 'gi');
+    return text.replace(regex, '<mark>$1</mark>');
+  };  
+
   const scoreEntry = (item, query) => {
     query = query.toLowerCase();
     let score = 0;
-
+  
     if (item.name.toLowerCase() === query) score += 100;
     else if (item.name.toLowerCase().includes(query)) score += 50;
-
+  
     item.tags?.forEach((tag, index) => {
       const tagLower = tag.toLowerCase();
       if (tagLower === query) score += 20 - index;
       else if (tagLower.includes(query)) score += 10 - index;
     });
-
-    if (item.description.toLowerCase().includes(query)) score += 5;
-
+  
+    if (item.description.toLowerCase().includes(query)) score += 2;
+    if (item.coiner.toLowerCase().includes(query)) score += 15;
+  
     item.altnames?.forEach((altname) => {
       const altnameLower = altname.toLowerCase();
       if (altnameLower === query) score += 40;
       else if (altnameLower.includes(query)) score += 20;
     });
-
+  
     return score;
   };
+  
 
   const renderEntry = (item) => {
+    const query = input.value.trim().toLowerCase();
+  
     return `
       <div class="entry">
-        <h2><a href="${item.url}" target="_blank">${item.name}</a></h2>
-        ${item.altnames ? `<p class="altnames">alternate names: ${item.altnames.join(', ')}</p>` : ''}
-        <p>${item.description}</p>
-        <p>coined by ${item.coiner}</p>
+        <h2><a href="${item.url}" target="_blank">${highlightMatch(item.name, query)}</a></h2>
+        ${item.altnames && item.altnames.length ? `<p class="altnames">alternate names: ${highlightMatch(item.altnames.join(', '), query)}</p>` : ''}
+        <p>${highlightMatch(item.description, query)}</p>
+        <p>coined by ${highlightMatch(item.coiner, query)}</p>
         ${item.image ? `<div><img src="${item.image}"></div>` : ''}
-        ${item.tags ? `<div class="tags">${item.tags.map(tag => `<span class="tag" onclick="addTagToSearch('${tag}')">#${tag}</span>`).join(' ')}</div>` : ''}
+        ${item.tags ? `<div class="tags">${item.tags.map(tag => `<span class="tag" onclick="addTagToSearch('${tag}')">${highlightMatch('#' + tag, query)}</span>`).join(' ')}</div>` : ''}
       </div>
     `;
   };
+  
 
   const display = (filtered) => {
     if (filtered.length === 0) {

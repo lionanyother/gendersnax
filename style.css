@@ -7,6 +7,10 @@ body {
   overflow-y: scroll;
 }
 
+mark {
+  background-color: rgba(216, 255, 189, 0.5);
+}
+
 input {
   width: 100%;
   padding: 0.5rem;
@@ -14,29 +18,42 @@ input {
   margin-bottom: 1rem;
 }
 
-.entry-grid {
-  display: grid;
-  grid-template-columns: 1fr;
+a {
+  color: #5d707d;
+  text-decoration: none;
 }
 
-@media (min-width: 600px) {
+a:hover {
+  text-decoration: underline;
+  color: #87929a;
+}
+
+.entry-grid {
+  column-count: 1;
+  column-gap: 1rem;
+}
+
+@media (min-width: 700px) {
   .entry-grid {
-    grid-template-columns: 1fr 1fr;
+    column-count: 2;
   }
 }
 
-@media (min-width: 900px) {
+@media (min-width: 1200px) {
   .entry-grid {
-    grid-template-columns: 1fr 1fr 1fr;
+    column-count: 3;
   }
 }
 
 .entry {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 1rem;
   border: 1px solid #ccc;
   background: #f9f9f9;
   padding: 1em;
-  margin: 0.5vw;
   border-radius: 5px;
+  box-sizing: border-box;
 }
 
 .entry img {
