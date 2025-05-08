@@ -9,6 +9,46 @@
     "tags": []
   },
   {
+    "name": "amalgic",
+    "altnames": [
+      "amalgender"
+    ],
+    "description": "a gender thats just kind of broken, funky, built weird, shouldn't be, etc. doesn't have to be an unknown/questioning gender.",
+    "image": "https://64.media.tumblr.com/a0854e9fee2240eb308b99911a1d5f41/80f82b6da88ed5f4-9e/s400x600/32ff4ed329effdb14f76de74e20e4ddd358fce76.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/710666438401277952/first-flag-has-no-id-help-appreciated-amalgic",
+    "tags": []
+  },
+  {
+    "name": "angelcharic",
+    "altnames": [],
+    "description": "when ones gender feels like an angel, angelic, or related to angels.",
+    "image": "https://64.media.tumblr.com/a2b3473213e0e5efecb3b5968ec8e690/b4f67d99212c640b-27/s400x600/c3cb15df571eb015a8c2123620bc4c9058716f14.jpg",
+    "coiner": "mogaidering",
+    "url": "https://www.tumblr.com/mogaidering/782454240316702720/i-love-you-cadet",
+    "tags": []
+  },
+  {
+    "name": "angelcross ",
+    "altnames": [
+      "angelcrossed"
+    ],
+    "description": "a gender related to angels and crosses. in the gendercross gender system",
+    "image": "https://64.media.tumblr.com/fcfb1ec872d6f03dc2a3f6932c905f6a/3cefbeb0d72b079e-8a/s400x600/402be02db33cc7616997706403d5632cc81f0002.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/713132167091421184/no-ids-help-appreciated-angelcross",
+    "tags": []
+  },
+  {
+    "name": "arxenmic",
+    "altnames": [],
+    "description": "a xenogender related to minecraft ARGs.",
+    "image": "https://64.media.tumblr.com/1cb29c0ca2c5b9326461bffc2b638686/c09338081c43bf53-89/s400x600/dd31d5d898a0637e8736c2cac2f9667a0516d26a.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/775809873315315712/arxenmic-a-xenogender-related-to-minecraft",
+    "tags": []
+  },
+  {
     "name": "autunnic",
     "altnames": [],
     "description": "a gender that feels like any aspects of autumn! this could be fallen leaves, pumpkin pie, halloween, the autumn months, or anything similar!",
@@ -16,8 +56,9 @@
     "coiner": "tr1lacidic",
     "url": "https://www.tumblr.com/tr1lacidic/782825670019563520/autunnic",
     "tags": [
-      "autumn",
-      "fall"
+      "fall",
+      "orange",
+      "seasons"
     ]
   },
   {
@@ -45,13 +86,8 @@
     "coiner": "lionanyother",
     "url": "https://www.tumblr.com/lionanyother/773633430068068352/blackberryadefrilled",
     "tags": [
-      "sweet",
-      "fruit",
-      "lemonade",
-      "food",
       "gastrogender",
-      "drink",
-      "blackberry"
+      "drink"
     ]
   },
   {
@@ -78,12 +114,48 @@
     "tags": []
   },
   {
+    "name": "caetyrine",
+    "altnames": [],
+    "description": "a gender connected to yearning, flowers, rot & decay, biding time, and the eternal.",
+    "image": "https://64.media.tumblr.com/bf9ae0c4c072a9bb4f5ce4a9e736c270/b31c4d7aa2dcff29-80/s400x600/9e2f389d7ab9eef713eca33ed95efe882f15d0ee.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/775367619014492160/caetyrine-a-gender-connected-to-yearning",
+    "tags": []
+  },
+  {
+    "name": "carmillaen",
+    "altnames": [],
+    "description": "a gender related to the novella carmilla (1872) by sheridan le fanu!",
+    "image": "https://64.media.tumblr.com/a5c3a3bdb178388ae12a7843e36ec1d1/f8027de228c375f1-cd/s250x400/912789a1918077409cdd7b99fd4488d181aaacff.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/778365670297649152/carmillaen",
+    "tags": []
+  },
+  {
     "name": "celeumphic",
     "altnames": [],
     "description": "a gender related to or otherwise impacted by small joys, triumphs, and their related celebration.",
     "image": "https://64.media.tumblr.com/1a8c9a9872d4ca315c818ce2e1458f18/d457a2b890188de1-6b/s1280x1920/21ffb3823808085c65e6f242cd79aa8a55f949e4.pnj",
     "coiner": "fwutcher",
     "url": "https://www.tumblr.com/fwutcher/782553423050637312/a-gender-related-to-or-otherwise-impacted-by-small",
+    "tags": []
+  },
+  {
+    "name": "creachurlexic",
+    "altnames": [],
+    "description": "a lexegender related to the word \"creachur\"!",
+    "image": "https://64.media.tumblr.com/1ce616bed1e58800b6998e53045973fa/ab11e79451c49781-7b/s400x600/897801214e8649c2334c306267caa08826e54bf5.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/775084484462804992/creachurlexic-a-lexegender-related-to-the-word",
+    "tags": []
+  },
+  {
+    "name": "cresolapse",
+    "altnames": [],
+    "description": "a gender related to the way sunlight dapples during a solar eclipse, creating crescent-like shapes.",
+    "image": "https://64.media.tumblr.com/5c3539ba58b74c32de9517fbee9ef720/1308aa965412d183-67/s400x600/9f5c030531c3eda85710787f84cfe836d6c467db.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/774722106737016832/cresolapse-a-gender-related-to-the-way",
     "tags": []
   },
   {
@@ -94,10 +166,28 @@
     "coiner": "fwutcher",
     "url": "https://www.tumblr.com/fwutcher/782217304897388544/id-a-seven-horizontally-striped-flag-the-center",
     "tags": [
-      "gloomy",
-      "morbid",
-      "death"
+      "gloomy"
     ]
+  },
+  {
+    "name": "devilcharic",
+    "altnames": [],
+    "description": "when ones gender feels like a devil, devilish, or related to devils.",
+    "image": "https://64.media.tumblr.com/a91df6e4258c6aae82e2a7cf519ec6dc/b4f67d99212c640b-87/s400x600/c99aee7053b9aa0ca9bf6162c5302469572517d0.jpg",
+    "coiner": "mogaidering",
+    "url": "https://www.tumblr.com/mogaidering/782454240316702720/i-love-you-cadet",
+    "tags": []
+  },
+  {
+    "name": "devilcross ",
+    "altnames": [
+      "devilcrossed"
+    ],
+    "description": "a gender related to devils and crosses. in the gendercross gender system",
+    "image": "https://64.media.tumblr.com/755aa9e327f2dab8db70190626bd55cf/427a35ddfb1b4d96-a8/s400x600/765ed6f0e48a1d10da31ea34d9aa5c2ebf5f3859.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/713498972439838720/no-ids-help-appreciated-devilcross",
+    "tags": []
   },
   {
     "name": "devmerosesongic",
@@ -106,6 +196,15 @@
     "image": "https://64.media.tumblr.com/5b5c23e3af6f28c60356661b0abfa13f/3b0cd44a48da6ca4-d2/s1280x1920/410d276904e4c984d15f5459a10a026899c41f8a.pnj",
     "coiner": "fwutcher",
     "url": "https://www.tumblr.com/fwutcher/782011884710789120/devmerosesongic-a-gender-connected-to-the-song",
+    "tags": []
+  },
+  {
+    "name": "doodadlexic",
+    "altnames": [],
+    "description": "a lexegender connected to the word \"doodad\".",
+    "image": "https://64.media.tumblr.com/2a013ac239cdfb6e9c2991a75b0b5935/7fc37fabd401b95d-98/s400x600/c16348774500ae90ebbb8284b38bff51503211be.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/775904408321064960/doodadlexic-a-lexegender-connected-to-the-word",
     "tags": []
   },
   {
@@ -120,6 +219,69 @@
     ]
   },
   {
+    "name": "draucanic",
+    "altnames": [],
+    "description": "a gender connected to dragons, wolves, and gold.",
+    "image": "https://64.media.tumblr.com/5f8c3e61f2ae31e75840555df326221f/d3eb4daf99cd8c66-90/s400x600/c3d28fcf76ceaa7aa91ab18ba0155deac71c8bb1.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/774993855262113792/draucanic-a-gender-connected-to-dragons",
+    "tags": []
+  },
+  {
+    "name": "emniralic",
+    "altnames": [],
+    "description": "a gender that's like walking down an empty street at night. it just rained, and lights reflect off of the wet pavement.",
+    "image": "https://64.media.tumblr.com/7cb34a78e458d287a2e7e0b9eecc672c/e29d32dfe69a5682-f3/s400x600/90348049f3d02b471d7feb9854a98dfe7826d9ff.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/710864612579573760/emniralic",
+    "tags": []
+  },
+  {
+    "name": "ethemore",
+    "altnames": [],
+    "description": "a gender connected to the ethereal feeling of lying awake in the very early hours of the morning. the moon is out. the stars are shining. it is completely quiet. it feels like you're the only one in this world.",
+    "image": "https://64.media.tumblr.com/8065958d9ddb8a320ba8f28bb3620138/515014da0dd8f1ef-9f/s1280x1920/e304fa7c488b4afc73034556b6082291e2c421d4.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/710726705337253888/id-a-rectangular-flag-with-5-equally-sized",
+    "tags": []
+  },
+  {
+    "name": "euphoriesalbumic",
+    "altnames": [],
+    "description": "a gender connected to the album euphories by videoclub",
+    "image": "https://64.media.tumblr.com/6f0670c5c6da335a6af433db26db2f6f/d99e3993de28db69-fc/s250x400/b3d182716d98697fdc86b1ea73d04efc853e1491.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/710934919890829312/euphoriesalbumic-a-gender-connected-to-the",
+    "tags": []
+  },
+  {
+    "name": "flescler",
+    "altnames": [],
+    "description": "a gender related to yellow flowers, blue skies, summer, and fluffy white clouds.",
+    "image": "https://64.media.tumblr.com/b28505f74d7434257270c42c09ac5d99/a17e39efc80928b8-5b/s400x600/00e0ed8363bb40ef8a4a16cf7aa783273fbf30bc.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/769905466996408320/flescler-a-gender-related-to-yellow-flowers",
+    "tags": []
+  },
+  {
+    "name": "fleullic",
+    "altnames": [],
+    "description": "a gender related to flowers blooming and trees regrowing their leaves at the start of spring.",
+    "image": "https://64.media.tumblr.com/6e9f450c54c5189ada7c9486a345054b/f7bad76a22c446d9-05/s400x600/10d387cf488b5b1bd470df11a0f39615ddd1ae41.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/710553642432937984/id-a-rectangular-flag-with-7-horizontal-wavy",
+    "tags": []
+  },
+  {
+    "name": "imselogender",
+    "altnames": [],
+    "description": "a gender that is immortal, but is locked away like a secret. it has seen how time passes by but cannot change the slightest thing about how it exists, and anyone who has been near it has never acknowledged it's existence.",
+    "image": "https://64.media.tumblr.com/4da99a1cd2042e2667fc6bc437f78647/21168c9aac733cfa-5e/s1280x1920/169ba0a2be05959bf0729996c04cdb07a64a6b5e.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/710506361585352704/id-a-rectangular-flag-with-6-equally-sized",
+    "tags": []
+  },
+  {
     "name": "intriscissorsgender",
     "altnames": [],
     "description": "a gender related to antique scissors with intricate designs. may be linked to their appearance or the feeling of holding a pair.",
@@ -130,6 +292,33 @@
       "scissors",
       "antique"
     ]
+  },
+  {
+    "name": "lightninghammervikinggender",
+    "altnames": [],
+    "description": "when one’s gender is based off lightning, hammers, and vikings.",
+    "image": "https://64.media.tumblr.com/f77963625d3fc1006be16d7446122411/02f1af2190fb34e9-26/s1280x1920/9772f72bd93ce9acaf8926a7d1d372ff028d017c.jpg",
+    "coiner": "mogaidering",
+    "url": "https://www.tumblr.com/mogaidering/782607815160266752/that-s-so-funny-cadet",
+    "tags": []
+  },
+  {
+    "name": "llectikei",
+    "altnames": [],
+    "description": "a gender related to collecting stickers, notes, receipts, tickets, and any other related objects!",
+    "image": "https://64.media.tumblr.com/01a8941145906f58564548a8dd6035c2/d0fcd20fa2d32fa4-16/s400x600/06ae676a0d9fab9ae565dc6916435d9f9ddbd2b0.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/775276892565749760/llectikei-a-gender-related-to-collecting",
+    "tags": []
+  },
+  {
+    "name": "lovtralyrica",
+    "altnames": [],
+    "description": "a gender connected to the lyric \"a lover, a traitor, a poison, a saviour\" from the song made of by goldielocks!",
+    "image": "https://64.media.tumblr.com/c35062f4e3085c62e99d8db070c0702a/f1135a790ba75d37-5b/s400x600/2e7ef1040ac1657e763c45afb136f69fb2c06d77.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/777168047539634176/lovtralyrica-a-gender-connected-to-the-lyric",
+    "tags": []
   },
   {
     "name": "midwestemoica",
@@ -162,6 +351,15 @@
     ]
   },
   {
+    "name": "moonpurpgender",
+    "altnames": [],
+    "description": "when ones gender is a purple moon or has relations to purple moons.",
+    "image": "https://64.media.tumblr.com/37e24a7977c2da5d0514dd8e87091a19/8842f73e459b6a2d-41/s1280x1920/9766ab7f63fac9f3568dde7af2c86caafd68cebf.jpg",
+    "coiner": "mogaidering",
+    "url": "https://www.tumblr.com/mogaidering/782729157444517888/moonpurpgender",
+    "tags": []
+  },
+  {
     "name": "mornelic",
     "altnames": [],
     "description": "a gender that was once full of life and energy , but has since grown dull and / or muted ! can be used in both a positive and negative sense !",
@@ -192,6 +390,24 @@
     ]
   },
   {
+    "name": "noctarael",
+    "altnames": [],
+    "description": "a gender connected to the act of making instant noodles.",
+    "image": "https://64.media.tumblr.com/bedd9887c9be0b5b29fb57f36d0683be/457adbb16eb78cd7-a8/s400x600/af1106bc9150840ae41b84ea71523e8da90a8ce1.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/774812672779812864/noctarael-a-gender-connected-to-the-act-of",
+    "tags": []
+  },
+  {
+    "name": "nunyaic",
+    "altnames": [],
+    "description": "a gender that specifically is \"fuck why would you ask me that???\"!",
+    "image": "https://64.media.tumblr.com/b1cadf8312bb90e2aaf9d1a9a7949874/dcdef1f7e6ee1062-1b/s400x600/c3bc4379e8eaefcd3c9dd332d163f0fbfc378b6e.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/776232345099468800/a-gender-that-specifically-is-fuck-why-would-you",
+    "tags": []
+  },
+  {
     "name": "ombralic",
     "altnames": [],
     "description": "a gender that feels enveloped by comforting darkness , shadows , or a general void !",
@@ -207,6 +423,15 @@
     ]
   },
   {
+    "name": "relocime",
+    "altnames": [],
+    "description": "a gender connected to time loops, resets, and loss of control.",
+    "image": "https://64.media.tumblr.com/2ea0c5f2fd1f45986db3467286bca507/edae3f09e07fd124-2f/s400x600/9948ca5fe23a04d22eee7592f2c332aa5eeece99.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/774631343165440000/a-flag-with-6-stripes-from-top-to-bottom-a-very",
+    "tags": []
+  },
+  {
     "name": "repairyousongic",
     "altnames": [
       "kimiorepairsongic",
@@ -218,8 +443,18 @@
     "coiner": "lionanyother",
     "url": "https://www.tumblr.com/lionanyother/772480862762745856/repairyousongic",
     "tags": [
-      "songgender"
+      "songgender",
+      "vocaloid"
     ]
+  },
+  {
+    "name": "resetlexic",
+    "altnames": [],
+    "description": "a lexegender related to the word \"reset\".",
+    "image": "https://64.media.tumblr.com/a661bb5be6ee4165d1b39bf7cb6f2aed/61019b2395587ba6-25/s1280x1920/4cfeef1b87da1edae391a65d6bb4169a853d0b6e.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/716298635483201536/id-a-rectangular-flag-with-7-equally-sized",
+    "tags": []
   },
   {
     "name": "riff2songic",
@@ -234,6 +469,15 @@
     "tags": [
       "songgender"
     ]
+  },
+  {
+    "name": "satunaline",
+    "altnames": [],
+    "description": "a gender connected to chance, adrenaline, and uncertainty.",
+    "image": "https://64.media.tumblr.com/1bf378f9ffc0770b7af6158040dcec17/e5a803d4761b8576-00/s400x600/11b4123b0fafe5e32178f29bf968c9278cc094c2.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/776352410627112960/satunaline-a-gender-connected-to-chance",
+    "tags": []
   },
   {
     "name": "shinoenby",
@@ -252,6 +496,26 @@
       "charactergender",
       "charic"
     ]
+  },
+  {
+    "name": "sometimesongic ",
+    "altnames": [
+      "sometimessongic"
+    ],
+    "description": "a songic gender related to the song sometimes by mattyeux and princess chelsea.",
+    "image": "https://64.media.tumblr.com/fc5bb971240f6589081f4ca0723b7f09/b1de09f675a4d4a7-f5/s1280x1920/c0d01325e51a124647ac9dc2f25bf4bd5a175a6e.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/710262547840974848/id-a-flag-with-6-concentric-circles-the-colours",
+    "tags": []
+  },
+  {
+    "name": "sunfielle",
+    "altnames": [],
+    "description": "a gender related to pastel yellow, childhood, ducklings, sunshine, summer, and fiendish childhood glee.",
+    "image": "https://64.media.tumblr.com/c04a570f577d44fa9ea73b46d849f350/8567d648edc6420c-b4/s1280x1920/06d856f39bb25a955aac461e037d56114dc885c1.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/713134289797185536/sunfielle-a-gender-related-to-pastel-yellow",
+    "tags": []
   },
   {
     "name": "suninflumasc",
@@ -292,6 +556,42 @@
     "tags": [
       "movie"
     ]
+  },
+  {
+    "name": "trestiveure",
+    "altnames": [],
+    "description": "a gender related to tree houses, imagination, friends, blue skies, summer, nostalgia, and fantasy adventures with friends.",
+    "image": "https://64.media.tumblr.com/2bbdd96c9124ffc50be4c772f448e6a2/0b627699b395b37a-4c/s400x600/d583dc7caa3e45fb60b743878c70dc2af56c9e10.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/712950673177739264/id-trestiveure-a-gender-related-to-tree-houses",
+    "tags": []
+  },
+  {
+    "name": "trinketlexic",
+    "altnames": [],
+    "description": "a lexegender related to the word \"trinket\"!",
+    "image": "https://64.media.tumblr.com/059ef2b8d164b68193de3de322c4e2c9/8ec35c28c6a67757-35/s250x400/8f8685d9db515a0577edcb6e1eb5fda1f5377dea.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/775548641667645440/trinketlexic-a-lexegender-related-to-the-word",
+    "tags": []
+  },
+  {
+    "name": "tripheroth",
+    "altnames": [],
+    "description": "a gender related to the species of tiger moth amata trigonophora !",
+    "image": "https://64.media.tumblr.com/45bf278c980b88c2c025f3221c9988d2/b7773829c3af84d1-37/s400x600/989ef129e4aa9f76aa5d9ed0310d4fcbbccf9566.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/778089724473688064/tripheroth-a-gender-related-to-the-species-of",
+    "tags": []
+  },
+  {
+    "name": "vasquestic",
+    "altnames": [],
+    "description": "a gender connected to quests along vast wastelands",
+    "image": "https://64.media.tumblr.com/fde9e66e17cfe1f537f036ed86d1c7d2/70c600239347db56-4d/s1280x1920/6b1bb1630d45548751b96eb50f549f5178de70b7.pnj",
+    "coiner": "despoir",
+    "url": "https://www.tumblr.com/despoir/710958304256557056/id-a-rectangular-flag-with-7-equally-sized",
+    "tags": []
   },
   {
     "name": "whitelotustearful",
