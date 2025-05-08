@@ -16,7 +16,19 @@ input {
 
 .entry-grid {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 600px) {
+  .entry-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 900px) {
+  .entry-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
 }
 
 .entry {
