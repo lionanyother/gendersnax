@@ -1,21 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>database</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="https://64.media.tumblr.com/5c33221364f0342966cd47322e49f72b/bd45c8964e974978-7d/s64x64u_c1/5a467ab486be0e2c1bced13bb84e6a1a32b5dabb.pnj" type="image/x-icon">
-</head>
-<body>
-    <h1>gendersnax - databased? on what?</h1>
-    <p>please contact me through <a href="https://www.tumblr.com/lionanyother" target="blank">my tumblr</a> if you want to report any dead links or request a removal.</p>
-    <input type="text" id="search" placeholder="search by name, coiner, theme...">
-    <div id="no-results-message" style="display:none; color: rgb(133, 95, 95);">
-      no entries were found. the term you are looking for may not exist or was removed by the coiner's request.
-    </div>    
-    <div id="results" class="entry-grid">
-    </div>
-    <script src="script.js"></script>
-</body>
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>database</title>
+      <link rel="stylesheet" href="style.css">
+      <link rel="icon" href="https://64.media.tumblr.com/5c33221364f0342966cd47322e49f72b/bd45c8964e974978-7d/s64x64u_c1/5a467ab486be0e2c1bced13bb84e6a1a32b5dabb.pnj" type="image/x-icon">
+  </head>
+  <body>
+      <h1>gendersnax - databased? on what?</h1>
+      <p>click on a coiner's name to open a small profile about them!<br>please contact me through <a href="https://www.tumblr.com/lionanyother" target="blank">my tumblr</a> if you want to report any dead links or request a removal.</p>
+      <input type="text" id="search" placeholder="search by name, coiner, theme...">
+
+      <div class="button-group">
+        <button id="toggle-filters">▼ search filters</button>
+        <button id="random-button">🎲 random term</button>
+      </div>    
+
+      <div id="advanced-filters" style="display: none; margin-top: 1rem;">
+        <label>name: <input type="text" id="filter-name"></label><br>
+        <label>coiner: <input type="text" id="filter-coiner"></label><br>
+        <label>tags (comma separated): <input type="text" id="filter-tags"></label><br>
+        <label>description: <input type="text" id="filter-description"></label><br>
+      </div>    
+
+      <div id="no-results-message" style="display:none; color: rgb(133, 95, 95);">
+        no entries were found. the term you are looking for may not exist or was removed by the coiner's request.
+      </div>    
+      <div id="results" class="entry-grid">
+      </div>
+      <script src="script.js"></script>
+
+      <div id="coiner-popup" class="coiner-popup" style="display: none;"></div>
+  </body>
 </html>

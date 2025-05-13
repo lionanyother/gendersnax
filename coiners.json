@@ -1,0 +1,64 @@
+{
+  "lionanyother": {
+    "name": "lion",
+    "pronouns": "it/he/lierre/foam",
+    "blurb": "site creator",
+    "links": [
+      { "platform": "tumblr", "url": "https://www.tumblr.com/lionanyother" },
+      { "platform": "pinterest", "url": "https://www.pinterest.com/lionanyother" },
+      { "platform": "pronouns.cc", "url": "https://pronouns.cc/@lionanyother" }
+    ]
+  },
+  "mogaidering": {
+    "name": "",
+    "pronouns": "",
+    "blurb": "",
+    "links": [
+      { "platform": "tumblr", "url": "https://www.tumblr.com/mogaidering" }
+    ]
+  },
+  "despoir": {
+    "name": "",
+    "pronouns": "",
+    "blurb": "",
+    "links": [
+      { "platform": "tumblr", "url": "https://www.tumblr.com/despoir" },
+      { "platform": "carrd", "url": "https://despoir.carrd.co/" }
+    ]
+  },
+  "fwutcher": {
+    "name": "frankie",
+    "pronouns": "it/axe/fwu",
+    "blurb": "mogai coiner trying its best, orientation preference but typically a mixed bag",
+    "links": [
+      { "platform": "tumblr", "url": "https://www.tumblr.com/fwutcher" },
+      { "platform": "pronouns.cc", "url": "https://pronouns.cc/@fwutcher" }
+    ]
+  },
+  "tr1lacidic": {
+    "name": "",
+    "pronouns": "",
+    "blurb": "",
+    "links": [
+      { "platform": "tumblr", "url": "https://www.tumblr.com/tr1lacidic" }
+    ]
+  },
+  "threecurlyfriesuwu": {
+    "name": "",
+    "pronouns": "",
+    "blurb": "",
+    "links": [
+      { "platform": "tumblr", "url": "https://www.tumblr.com/threecurlyfriesuwu" }
+    ]
+  },
+  "saturniasxenos": {
+    "name": "Eternal_Saturn",
+    "pronouns": "Any!",
+    "blurb": "I like to create xenogenders to explore my identity and help others find/describe themselves",
+    "links": [
+      { "platform": "tumblr", "url": "https://www.tumblr.com/saturniasxenos" },
+      { "platform": "strawpage", "url": "https://thealiferoussystem.straw.page/" },
+      { "platform": "carrd", "url": "https://eternal-s-virtual-r.carrd.co/" }
+    ]
+  }
+}

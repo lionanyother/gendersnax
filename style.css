@@ -8,7 +8,7 @@ body {
 }
 
 mark {
-  background-color: rgba(216, 255, 189, 0.5);
+  background-color: white;
 }
 
 input {
@@ -16,6 +16,29 @@ input {
   padding: 0.5rem;
   font-size: 1rem;
   margin-bottom: 1rem;
+}
+
+.button-group {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.button-group button {
+  height: 2.5rem;
+  padding: 0 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: #d1e9ff;
+  color: #333;
+  transition: background-color 0.2s ease;
+}
+
+.button-group button:hover {
+  background-color: #c0ddff;
 }
 
 a {
@@ -49,11 +72,16 @@ a:hover {
   display: inline-block;
   width: 100%;
   margin-bottom: 1rem;
-  border: 1px solid #ccc;
+  border: 5px ridge lightgrey;
   background: #f9f9f9;
   padding: 1em;
   border-radius: 5px;
   box-sizing: border-box;
+  transition: border 0.2s ease;
+}
+
+.entry:hover {
+  border: 5px ridge white;
 }
 
 .entry img {
@@ -62,6 +90,9 @@ a:hover {
   height: auto;
   display: block;
   margin-bottom: 0.5rem;
+  transition: transform 0.2s ease;
+  border: 2px solid black;
+  border-radius: 5px;
 }
 
 .altnames {
@@ -79,4 +110,45 @@ a:hover {
 .tag:hover {
   text-decoration: underline;
   color: #768996;
+}
+
+.coiner-popup {
+  position: absolute;
+  background: #fff;
+  border: 1px solid #aaa;
+  border-radius: 8px;
+  padding: 1em;
+  z-index: 1000;
+  min-width: 100px;
+  max-width: 250px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+}
+
+h3 {
+  margin-top: 0;
+}
+
+h2 {
+  margin-top: 0;
+  overflow-wrap: break-word;
+}
+
+.coiner-popup a {
+  color: #5d707d;
+}
+
+.coiner-name {
+  cursor: pointer;
+  color: #5d707d;
+}
+
+.coiner-name:hover {
+  color: #768996;
+}
+
+.labels {
+  color: grey;
+  font-style: italic;
+  font-size: 12px;
+  margin-bottom: 0.5em;
 }
